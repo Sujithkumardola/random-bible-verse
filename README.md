@@ -10,6 +10,7 @@ This is a one-page PHP script that displays a random Bible verse every time.
 
 2.Nice UI/UX
 
+3.Web view Compatible 
 
 # Contribute
 
